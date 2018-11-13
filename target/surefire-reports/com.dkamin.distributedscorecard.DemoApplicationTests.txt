@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dkamin.distributedscorecard.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.62 s - in com.dkamin.distributedscorecard.DemoApplicationTests
