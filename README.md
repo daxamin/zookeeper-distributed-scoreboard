@@ -1,5 +1,4 @@
 # Distributed Scoreboard using Zookeeper
-HW1 for CSC 591 Data Intensive Computing | distributed-scoreboard
 
 ## Getting started
 These instructions will get you the project up and running on your local/cloud machine for development and testing purposes. This application is built using maven and spring-boot.
