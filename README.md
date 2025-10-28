@@ -20,3 +20,5 @@ After installation, start the zookeeper server. Follow following steps to run th
 - player 12.34.45.87:6666 name | success message prompt - `Node added - Thor`
 - player 12.34.45.87:6666 "first last"
 - player 12.34.45.87:6666 name count delay score | success message prompt - `Score Posted by Thor`
+
+TEst CCR
